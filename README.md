@@ -2,7 +2,6 @@
 HTML/CSS/JavaScript
 
 ## Setup
-
 To use this project as is, first clone teh repo from Github, then run:
 $ cd kinozal_promo
 $ npm install
